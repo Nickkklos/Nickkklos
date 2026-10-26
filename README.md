@@ -2,7 +2,7 @@
 
 Part III (MASt) student in Applied Mathematics at the University of Cambridge; BSc Mathematics (First Class), University of Warwick.
 
-Interests: numerical analysis and scientific computing; inverse problems and data-driven dynamics; fast algorithms and high-performance computing.
+Interests: numerical analysis and scientific computing; inverse problems and reliable data-driven modelling, in particular identifying differential equations from data. Areas I would like to move into: fast algorithms and high-performance computing.
 
 **Projects**
 
